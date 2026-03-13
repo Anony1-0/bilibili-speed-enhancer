@@ -1,15 +1,15 @@
 // ==UserScript==
 // @name         Bilibili 增强倍速控制
 // @namespace    https://github.com/Anony1-0/bilibili-speed-enhancer
-// @version      1.0.1
+// @version      1.0.0
 // @description  为B站视频播放器添加0.25x、3.0x、4.0x、5.0x、6.0x、10.0x倍速选项
 // @author       Anony1
 // @match        https://www.bilibili.com/video/*
 // @match        https://www.bilibili.com/bangumi/play/*
 // @grant        none
 // @run-at       document-idle
-// @downloadURL  https://raw.githubusercontent.com/Anony1-0/bilibili-speed-enhancer/main/bilibili-speed-enhancer.user.js
-// @updateURL    https://raw.githubusercontent.com/Anony1-0/bilibili-speed-enhancer/main/bilibili-speed-enhancer.user.js
+// @downloadURL  https://raw.githubusercontent.com/Anony1-0/bilibili-speed-enhancer/main/Bilibili 增强倍速控制.user.js
+// @updateURL    https://raw.githubusercontent.com/Anony1-0/bilibili-speed-enhancer/main/Bilibili 增强倍速控制.user.js
 // ==/UserScript==
 //注：本脚本完全由claude4.6 sonnet生成
 
